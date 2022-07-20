@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Multimeter App - Project of team Untitled for CMPT 362
 
 You can use the [editor on GitHub](https://github.com/ShayGeko/multimeter-githubpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
